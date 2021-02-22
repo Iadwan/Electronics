@@ -30,7 +30,7 @@ U 1 1 601F00C9
 P 3250 4750
 F 0 "J1" H 3330 4742 50  0000 L CNN
 F 1 " " H 3330 4651 50  0000 L CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical" H 3250 4750 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 3250 4750 50  0001 C CNN
 F 3 "~" H 3250 4750 50  0001 C CNN
 	1    3250 4750
 	1    0    0    -1  
@@ -41,7 +41,7 @@ U 1 1 601F053D
 P 4500 4300
 F 0 "J2" V 4372 4380 50  0000 L CNN
 F 1 "Conn_01x02" V 4463 4380 50  0000 L CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical" H 4500 4300 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4500 4300 50  0001 C CNN
 F 3 "~" H 4500 4300 50  0001 C CNN
 	1    4500 4300
 	0    1    1    0   
@@ -172,7 +172,7 @@ U 1 1 60201842
 P 4500 1750
 F 0 "Jumper1" V 4372 1830 50  0000 L CNN
 F 1 " " V 4463 1830 50  0000 L CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical" H 4500 1750 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4500 1750 50  0001 C CNN
 F 3 "~" H 4500 1750 50  0001 C CNN
 	1    4500 1750
 	0    1    1    0   
