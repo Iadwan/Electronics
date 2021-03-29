@@ -28,7 +28,7 @@ namespace VoltageDivider
         double r1;   // Value of Resistor 1
         double r2;   // Value of Resistor 2 
         double vin;    // Input Voltage
-        double vout;    // Vout after appying the calaclations
+        double vout;    // Vout after appyling the calaclations
         private void button_Click(object sender, RoutedEventArgs e)
         {
 
@@ -56,7 +56,7 @@ namespace VoltageDivider
                 r2 = r2 * 1000;
             }
 
-            vout = vin * (r2 / (r1 + r2));    // Out main equation 
+            vout = vin * (r2 / (r1 + r2));    // main equation dervied from ohm's law
 
             textBox4.Text = Convert.ToString(vout);
         }
